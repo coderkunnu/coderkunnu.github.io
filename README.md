@@ -13,12 +13,12 @@ git init
 ```
 ### Link a local git repository to your github repository
 ```markdown
-git remote add origin <repository link>
+git remote add origin <repository_url>
 ```
 
 ### Clone a repository
 ```markdown
-git clone <repository link>
+git clone <repository_url>
 ```
 
 ### Get latest changes
