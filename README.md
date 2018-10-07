@@ -3,7 +3,7 @@
 
 ## Repository Links
 
-### [rproject](https://kunal15abc.github.io/rproject/) - Contains files for practicing R
+[rproject](https://kunal15abc.github.io/rproject/) - Contains files for practicing R
 
 ## Basic GIT Commands
 
@@ -14,6 +14,7 @@ git init
 ### Link a local git repository to your github repository
 ```markdown
 git remote add origin <repository_link>
+```
 
 ### Clone a repository
 ```markdown
