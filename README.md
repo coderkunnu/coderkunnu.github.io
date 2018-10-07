@@ -16,5 +16,7 @@ To pull the latest code, use the following command inside the repository you hav
 git pull
 ```
 
-### __Tasks to Complete__
+
+
+### Tasks to Complete
 Open ___Titanic.R___ file and try to understand the code. Comments have been provided for better understanding. Do not forget to uncomment the ___install.package___ command by removing the preceeding ___'#'___ when you are running the code for the first time.
