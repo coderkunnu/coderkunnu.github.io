@@ -16,4 +16,4 @@ git pull
 ```
 
 ## __Tasks to Complete__
-Open _Titanic.R_ file and try to understand the code. Comments have been provided for better understanding. Do not forget to uncomment the _install.package_ command by removing the preceeding _'#'_ when you are running the code for the first time.
+Open ___Titanic.R___ file and try to understand the code. Comments have been provided for better understanding. Do not forget to uncomment the ___install.package___ command by removing the preceeding ___'#'___ when you are running the code for the first time.
