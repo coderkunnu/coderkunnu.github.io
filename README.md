@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome CookieMonster's Repository
 
-You can use the [editor on GitHub](https://github.com/kunal15abc/kunal15abc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Download rproject repository
+To download R project repository, navigate to your desired workspace, paste following command and press enter. This will clone the rproject repository into your local.
 
 ```markdown
-Syntax highlighted code block
+git clone https://github.com/kunal15abc/rproject
+```
+You will now be able to open the .R files with your RStudio.
 
-# Header 1
-## Header 2
-### Header 3
+### Pull the latest code
+To pull the latest code, use the following command inside the repository you have cloned
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+git pull
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kunal15abc/kunal15abc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### **Tasks to Complete**
+Open _Titanic.R_ file and try to understand the code. Comments have been provided for better understanding. Do not forget to uncomment the _install.package_ command by removing the preceeding _'#'_ when you are running the code for the first time
