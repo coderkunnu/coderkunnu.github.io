@@ -8,7 +8,7 @@ To download R project repository, navigate to your desired workspace, paste foll
 git clone https://github.com/kunal15abc/rproject
 ```
 You will now be able to open the .R files with your RStudio.
-If you just want to have a look at the state of the code, here's the [link](https://github.com/kunal15abc/rproject) to the repositoty 
+If you just want to have a look at the state of the code, here's the [link](https://github.com/kunal15abc/rproject) to the repositoty.
 
 ### Pull the latest code
 To pull the latest code, use the following command inside the repository you have cloned.
