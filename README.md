@@ -3,7 +3,7 @@
 
 ## Repository Links
 
-[rproject](https://kunal15abc.github.io/rproject/) - Contains files for practicing R
+[r-project](https://kunal15abc.github.io/r-project/) - Contains files for practicing R
 
 ## Basic GIT Commands
 
