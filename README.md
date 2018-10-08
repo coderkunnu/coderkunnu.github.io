@@ -3,7 +3,9 @@
 
 ## Repository Links
 
-[r-project](https://kunal15abc.github.io/r-project/) - Contains files for practicing R
+[r-project](https://kunal15abc.github.io/r-project/) - Contains files for R practice
+[ds-java](https://kunal15abc.github.io/ds-java/) - Data Structure Practice with Java
+[ds-python](https://kunal15abc.github.io/ds-python/) - data structure in python
 
 ## Basic GIT Commands
 
@@ -48,5 +50,5 @@ git commit -m "commit message"
 
 Push to the repository
 ```markdown
-git push
+git push origin master
 ```
