@@ -50,5 +50,5 @@ git commit -m "commit message"
 
 Push to the repository
 ```markdown
-git push origin master
+git push
 ```
