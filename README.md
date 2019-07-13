@@ -23,14 +23,14 @@ Clone a repository
 git clone <repository_url>
 ```
 
-Switch Branch
-```markdown
-git checkout <branch>
-```
-
 Get latest changes
 ```markdown
 git fetch
+```
+
+Switch Branch
+```markdown
+git checkout <branch>
 ```
 
 Pull latest changes into your code
