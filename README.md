@@ -3,9 +3,9 @@
 
 ## Repository Links
 
->[r-project](https://sslerror.github.io/r-project/) - Contains files for R practice  
->[ds-java](https://sslerror.github.io/ds-java/) - Data Structure Practice with Java  
->[ds-python](https://sslerror.github.io/ds-python/) - data structure in python
+>[r-project](https://kunalnitt.github.io/r-project/) - Contains files for R practice  
+>[ds-java](https://kunalnitt.github.io/ds-java/) - Data Structure Practice with Java  
+>[ds-python](https://kunalnitt.github.io/ds-python/) - data structure in python
 
 ## Basic GIT Commands
 
